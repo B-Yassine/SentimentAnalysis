@@ -17,3 +17,8 @@ By running the code we're going to save our tweets, sentiment, and the Unix time
 4- Finally, to vizualize your analysis run:
 
     dash_Sentiment.py
+
+
+
+
+![Dash sentiment graph](dash.png)
