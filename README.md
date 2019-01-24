@@ -1,2 +1,2 @@
 # SentimentAnalysis
-Sentiment Analysis on real time tweets streaming
+Real time Sentiment Analysis on tweets streaming using the twitter API
