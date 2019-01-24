@@ -11,13 +11,13 @@ By running the code we're going to save our tweets, sentiment, and the Unix time
 
 3- Simply run:
     
-  readingSentiment.py
+    readingSentiment.py
 
 To check if everything worked well !!!
 
 4- Finally run:
 
-  dash_Sentiment.py
+    dash_Sentiment.py
 
 To vizualize your analysis.
 
