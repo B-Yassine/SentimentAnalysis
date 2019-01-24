@@ -5,9 +5,9 @@ Real time Sentiment Analysis on tweets streaming using the twitter API
     
     https://developer.twitter.com/en/apps
 
-2- Modify your consumer key, consumer secret, access token, access secret in twitterApiAnalysis.py and run it
+2- Modify your consumer key, consumer secret, access token, access secret in twitterApiAnalysis.py and run it.
 
-By running the code we're going to save our tweets, sentiment, and the Unix time to our database created using sqlite (SQLite comes with Python, so you should already have it)
+By running the code we're going to save our tweets, sentiment, and the Unix time to our database created using sqlite (SQLite comes with Python, so you should already have it).
 
 3- To check if everything worked well !!! simply run:
     
