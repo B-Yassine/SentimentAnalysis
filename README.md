@@ -9,15 +9,11 @@ Real time Sentiment Analysis on tweets streaming using the twitter API
 
 By running the code we're going to save our tweets, sentiment, and the Unix time to our database created using sqlite (SQLite comes with Python, so you should already have it)
 
-3- Simply run:
+3- To check if everything worked well !!! simply run:
     
     readingSentiment.py
 
-To check if everything worked well !!!
 
-4- Finally run:
+4- Finally, to vizualize your analysis run:
 
     dash_Sentiment.py
-
-To vizualize your analysis.
-
