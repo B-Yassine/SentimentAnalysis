@@ -11,10 +11,10 @@ import time
 
 #consumer key, consumer secret, access token, access secret.
 
-ckey="JFCpBNeLhi58xX3iJUBz7GrtT"
-csecret="aCr1MUQpebTGztcyypmaJajzQCFzitqrMslyAmomN4PEbfUkNa"
-atoken="1048553227061551104-zfzMOklc4nGGtclUJk7OfYfS7OyaYs"
-asecret="zJzm3dPTTCRhrLYgUs2YoO2654fEgPeHyUi2FcZXxQs6K"
+ckey="XXXXXXXXXXXXXXXXXXXX"
+csecret="XXXXXXXXXXXXXXXXXXXXXXXXXX"
+atoken="XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+asecret="XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 
 conn = sqlite3.connect('twitter.db')
 c = conn.cursor()
